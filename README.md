@@ -50,6 +50,8 @@ Model performance is evaluated based on the following metrics:
 ## Results
 This includes confusion matrices, classification reports, and ROC curves for each model.
 
+Achieved Overall Accuracy score of 90%
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Jeetkavaiya/Heart-Disease-Classification/blob/main/LICENSE) file for details.
 
