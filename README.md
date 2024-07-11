@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Installation](#installation)
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Results](#results)
@@ -15,17 +14,6 @@ This project focuses on predicting the presence of heart disease in patients usi
 
 ## Dataset
 The dataset used for this project is the [Heart Disease UCI dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease). The original data came from the Cleavland data from the UCI Machine Learning Repository. It consists of several features that include patient medical attributes and demographic information.
-
-## Installation
-To run this project, you'll need to have Python installed. Follow the steps below to set up the environment:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Jeetkavaiya/Heart-Disease-Classification.git
-   cd heart-disease-classification
-
-2. Install the required dependencies:
-   pip install -r requirements.txt
 
 ## Model Training
 The train_model.py script preprocesses the data, splits it into training and testing sets, and trains multiple machine learning models. The following models are implemented:
