@@ -43,9 +43,9 @@ Achieved Overall Accuracy score of 90%
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Jeetkavaiya/Heart-Disease-Classification/blob/main/LICENSE) file for details.
 
-## Acknowledgments
+## Acknowledgements
 This project uses the following resources:
-
+<br/>
 UCI Machine Learning Repository
 <br/>
 Various Python libraries including scikit-learn, pandas, numpy, and matplotlib
